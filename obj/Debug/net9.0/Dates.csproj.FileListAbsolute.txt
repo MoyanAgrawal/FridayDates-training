@@ -1,0 +1,14 @@
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\bin\Debug\net9.0\Dates.exe
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\bin\Debug\net9.0\Dates.deps.json
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\bin\Debug\net9.0\Dates.runtimeconfig.json
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\bin\Debug\net9.0\Dates.dll
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\bin\Debug\net9.0\Dates.pdb
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\obj\Debug\net9.0\Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\obj\Debug\net9.0\Dates.AssemblyInfoInputs.cache
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\obj\Debug\net9.0\Dates.AssemblyInfo.cs
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\obj\Debug\net9.0\Dates.csproj.CoreCompileInputs.cache
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\obj\Debug\net9.0\Dates.dll
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\obj\Debug\net9.0\refint\Dates.dll
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\obj\Debug\net9.0\Dates.pdb
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\obj\Debug\net9.0\Dates.genruntimeconfig.cache
+C:\Users\moyan\OneDrive\Desktop\Training Mph\Dates\obj\Debug\net9.0\ref\Dates.dll
